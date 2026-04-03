@@ -66,9 +66,9 @@ python src/main.py
 
 **Faculty:** Faculty of Information Technology (FIT)  
 
-**Team Members **
+**Team Members**
 * Phan Minh Anh - 24120498
 * Ngo Nguyen Dong Quan - 24120505 
 * Ho Ngoc Lan Anh - 24120256
 * Phan Thi Ngoc Khanh - 24120071
-* Huynh Hoang Yen (24120246
+* Huynh Hoang Yen - 24120246
