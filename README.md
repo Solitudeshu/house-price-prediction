@@ -61,7 +61,9 @@ python src/main.py
 ## Authors
 
 **Course:** CSC00004 - Introduction to Information Technology
+
 **Institution:** University of Science, VNU-HCM  
+
 **Faculty:** Faculty of Information Technology (FIT)  
 
 **Team Members **
