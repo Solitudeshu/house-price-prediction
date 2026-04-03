@@ -69,8 +69,8 @@ def main():
 
     # 3. Normalize data (PREVENT DATA LEAKAGE)
     scaler = MinMaxScaler()
-    X_train_scaled = scaler.fit_transform(X_train)  
-    X_test_scaled = scaler.transform(X_test)       
+    X_train_scaled = scaler.fit_transform(X_train)
+    X_test_scaled = scaler.transform(X_test)
 
     # 4. Find optimal K and plot graph
     print("Starting KNN model evaluation from scratch...")
