@@ -1,4 +1,4 @@
-# Real Estate Price Prediction - CSC00004
+# Real Estate Price Prediction
 
 ## Introduction
 
